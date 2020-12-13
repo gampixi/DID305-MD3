@@ -1,4 +1,4 @@
-all_epochs.pickle
+*.pickle
 .idea/
 *.avi
 *.mp4
